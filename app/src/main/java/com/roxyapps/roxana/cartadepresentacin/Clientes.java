@@ -6,6 +6,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+// Integrantes : 00507511, 00502211, 00013812
+
 public class Clientes extends AppCompatActivity {
 
     private Button entran;
