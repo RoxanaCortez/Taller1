@@ -4,4 +4,8 @@
     <string name="faceb_rox">/RoxanaDíaz</string>
     <string name="inst_rox">RoxanaCortez</string>
     <string name="git_rox">RoxanaCortez</string>
+    <string name="txt_entran">Entran</string>
+    <string name="txt_salen">Salen</string>
+    <string name="num_inicial">0</string>
+    <string name="bt_add">ADD</string>
 </resources>
